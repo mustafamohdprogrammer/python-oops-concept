@@ -1,1 +1,4 @@
 1. Class & Objects
+2. Encapsulation
+3. getter and setter
+4. static method
