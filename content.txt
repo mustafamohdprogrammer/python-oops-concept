@@ -2,3 +2,4 @@
 2. Encapsulation
 3. getter and setter
 4. static method
+5. self
