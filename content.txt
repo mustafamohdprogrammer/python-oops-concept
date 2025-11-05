@@ -3,3 +3,5 @@
 3. getter and setter
 4. static method
 5. self
+6. Inheritance
+7. Super keyword
